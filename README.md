@@ -16,7 +16,7 @@ A robust, production-ready Machine Learning web application designed to classify
 
 ##  Tech Stack & Architecture
 
-- **Programming Language**: Python 3
+- **Programming Language**: Python 
 - **Machine Learning Framework**: Scikit-Learn
 - **Data Manipulation**: Pandas
 - **Web Interface**: Streamlit
